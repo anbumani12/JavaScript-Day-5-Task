@@ -1,1 +1,1 @@
-This is the task for JavaScript Day 5. I have completed the first two questions, and they were updated in the script.js file. The third question has been updated in a Word document.
+This is the task for JavaScript Day 5. I have completed the first two questions, and they were updated in the script.js file. The third question has been updated in a Word document. Kindly see the console for results.
